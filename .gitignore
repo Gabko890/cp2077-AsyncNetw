@@ -1,0 +1,6 @@
+# Build
+.xmake/
+build/
+
+# IDE
+.vscode
